@@ -1,4 +1,4 @@
-declare module "vue3-popper" {
+declare module "vue3-popper-fixed" {
   import { DefineComponent } from "vue";
 
   interface Props {
